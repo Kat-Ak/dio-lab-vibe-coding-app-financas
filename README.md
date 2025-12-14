@@ -41,7 +41,7 @@ Objetivo: simplificar o controle financeiro, tornando-o natural, autoexplicativo
 - Classificação automática com confirmação.  
 - Atalhos para categorias e valores frequentes.
 
-#### Planejamento
+#### Planejament
 - Criação e acompanhamento de metas financeiras.  
 - Dicas educativas do Agente Financeiro.
 
@@ -49,7 +49,7 @@ Objetivo: simplificar o controle financeiro, tornando-o natural, autoexplicativo
 - Relatórios simples: Receitas vs Despesas, Gastos por Categoria, Extrato filtrável.  
 - Gráficos acessíveis (cores daltônicas-amigáveis, legendas textuais).
 
-#### Configurações
+#### Configuações
 - Ajustes de acessibilidade (fonte, contraste, modo claro/escuro).  
 - Privacidade: exportar histórico, apagar conta, consentimento de dados.
 
