@@ -1,4 +1,4 @@
-<h1 align="center"> 💰 App de Finanças Pessoais por chat | Vibe Coding com IA 🤖 </h1>
+<h1 align="center"> 💵 App de Finanças Pessoais por chat | Vibe Coding com IA 🤖 </h1>
 </div>
 <p align="center"> <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge"/>
 <p align="center">
@@ -43,7 +43,7 @@ Objetivo: simplificar o controle financeiro, tornando-o natural, autoexplicativo
 - Classificação automática com confirmação.  
 - Atalhos para categorias e valores frequentes.
 
-#### Planejament
+#### Planejamento
 - Criação e acompanhamento de metas financeiras.  
 - Dicas educativas do Agente Financeiro.
 
@@ -148,7 +148,7 @@ Transforma o controle de finanças em uma **experiência de conversa natural e i
 - ♿ **Ajustes de acessibilidade**: fonte legível, contraste alto, cores daltônicas-amigáveis e compatibilidade com leitores de tela.  
 - 🔒 **Privacidade garantida**: exportação de histórico e opção de apagar conta.
 ##
-🪄 Em resumo: o app transforma o controle financeiro em uma **experiência de conversa simples, inclusiva e educativa**, ajudando usuários a entender e melhorar sua relação com o dinheiro.
+📚 Em resumo: o app transforma o controle financeiro em uma **experiência de conversa simples, inclusiva e educativa**, ajudando usuários a entender e melhorar sua relação com o dinheiro.
 
 ---
 
