@@ -10,11 +10,9 @@
 
 ---
 
- <div align="center">
-📄![PRD Refinado no Copilot Web](img.shields.io)
+<div align="center">
+ 📄![PRD Refinado no Copilot Web](img.shields.io)
 </div>
-
-
 
 
 ### 📄 PRD Refinado no Copilot Web
