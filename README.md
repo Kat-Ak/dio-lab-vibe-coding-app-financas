@@ -106,34 +106,130 @@ Objetivo: simplificar o controle financeiro, tornando-o natural, autoexplicativo
 
 ---
 
-# 📱 Wireframes Textuais – MVP
+# 📱 Wireframe Textual – MVP
 
-## Tela Inicial
-![Tela Inicial](assets/wireframes/tela-inicial.png)
-
-## Tela de Registro de Gasto
-![Tela Registro](assets/wireframes/tela-registro.png)
-
-## Tela de Metas Financeiras
-![Tela Metas](assets/wireframes/tela-metas.png)
-
-## Tela de Relatórios
-![Tela Relatórios](assets/wireframes/tela-relatorios.png)
-
-## Tela de Dicas do Agente Financeiro
-![Tela Dicas](assets/wireframes/tela-dicas.png)
+## 1️⃣ Tela Inicial (Chat Financeiro)
+✨ **Topo:** título “Seu Controle Financeiro”
+💬 **Centro:** caixa de conversa (texto grande, contraste alto)
+🎤 **Botão principal:** “Falar gasto” (centralizado e destacado)  
+⚡ **Atalhos abaixo:** Registrar gasto | Ver relatórios | Definir meta  
 
 ---
 
-## Fluxo Simplificado
-1. Início → Chat Financeiro  
-2. Registrar gasto → Confirmação de categoria  
-3. Definir meta → Barra de progresso  
-4. Ver relatórios → Gráficos acessíveis / Extrato  
-5. Receber dicas → Ações simples
+## 2️⃣ Tela de Registro de Gasto
+📝 **Mensagem detectada:** “Comprei pão por R$10”  
+💳 **Cartão de confirmação:**  
+- Valor: R$10  
+- Categoria sugerida: 🍞 Alimentação  
+✅ **Botões grandes:** Confirmar | Alterar  
 
 ---
 
+## 3️⃣ Tela de Metas Financeiras
+🎯 **Pergunta inicial:** “Qual meta você quer alcançar?”  
+📌 **Sugestões em botões:**  
+- 💵 Economizar R$200/mês  
+- ✈️ Guardar para viagem  
+- 🛠️ Criar meta personalizada  
+📊 **Barra de progresso:** visual simples, cores contrastantes, texto “Você já alcançou 20% da meta”  
+
+---
+
+## 4️⃣ Tela de Relatórios
+📂 **Abas superiores:** Resumo | Categorias | Histórico  
+📈 **Resumo:** gráfico de barras Receitas vs Despesas (alto contraste, legendas grandes)  
+🥧 **Categorias:** gráfico circular ou barras, paleta daltônica-amigável  
+📜 **Histórico:** lista de transações com fonte grande, botões “Anterior / Próximo”  
+
+---
+
+## 5️⃣ Tela de Dicas do Agente Financeiro
+💡 **Mensagem curta:** “Você pode economizar R$50 se reduzir gastos com delivery.”  
+🙂 **Ícone amigável:** personagem simples  
+👉 **Botões de ação:** Quero tentar | Me lembre depois  
+
+---
+
+## 🔄 Fluxo Simplificado
+1. 🚀 Início → Chat Financeiro  
+2. 📝 Registrar gasto → Confirmação de categoria  
+3. 🎯 Definir meta → Barra de progresso  
+4. 📊 Ver relatórios → Gráficos acessíveis / Extrato  
+5. 💡 Receber dicas → Ações simples  
+
+---
+
+# 📊 Resumo dos Wireframes
+
+| Tela                        | Elementos principais                                                                 | Objetivo                                                                 |
+|-----------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| 🏠 **Tela Inicial**         | Título, caixa de conversa, botão 🎤 “Falar gasto”, atalhos (Registrar, Relatórios, Meta) | Ponto de entrada rápido para registrar gastos e acessar funções principais |
+| 📝 **Registro de Gasto**    | Mensagem detectada, cartão de confirmação (valor + categoria), botões Confirmar/Alterar | Facilitar o registro de despesas com categorização automática             |
+| 🎯 **Metas Financeiras**    | Pergunta inicial, botões de sugestão, barra de progresso com porcentagem              | Definir e acompanhar metas de economia ou objetivos financeiros           |
+| 📊 **Relatórios**           | Abas (Resumo, Categorias, Histórico), gráficos de barras/circular, lista de transações | Visualizar desempenho financeiro e histórico de gastos                    |
+| 💡 **Dicas do Agente**      | Mensagem curta de economia, ícone amigável, botões Quero tentar/Me lembre depois       | Oferecer recomendações práticas para melhorar hábitos financeiros         |
+| 🔄 **Fluxo Simplificado**   | Sequência: Início → Registrar → Meta → Relatórios → Dicas                            | Mostrar o caminho lógico de uso do aplicativo                             |
+---
+# 📱 Wireframe Textual – MVP (Minimalista)
+
+## 1️⃣ Tela Inicial
+- 🏷️ "Seu Controle Financeiro"
+- 💬 Caixa de conversa (texto grande)
+- 🎤 Botão principal: Falar gasto
+- ⚡ Atalhos: Registrar | Relatórios | Meta
+
+---
+
+## 2️⃣ Registro de Gasto
+- 📝 Mensagem: "Comprei pão R$10"
+- 💳 Confirmação: Valor R$10 | Categoria 🍞 Alimentação
+- ✅ Botões: Confirmar | Alterar
+
+---
+
+## 3️⃣ Metas Financeiras
+- 🎯 Pergunta: "Qual meta você quer alcançar?"
+- 📌 Botões: Economizar R$200/mês | Guardar viagem | Meta personalizada
+- 📊 Progresso: 20% alcançado
+
+---
+
+## 4️⃣ Relatórios
+- 📂 Abas: Resumo | Categorias | Histórico
+- 📈 Gráfico: Receitas vs Despesas
+- 🥧 Categorias: Alimentação, etc.
+- 📜 Histórico: lista de gastos + navegação
+
+---
+
+## 5️⃣ Dicas do Agente
+- 💡 Dica: "Economize R$50 reduzindo delivery"
+- 🙂 Ícone amigável
+- 👉 Botões: Quero tentar | Me lembre depois
+
+---
+
+## 🔄 Fluxo Simplificado
+1. 🚀 Início → Chat  
+2. 📝 Registrar gasto → Confirmação  
+3. 🎯 Definir meta → Progresso  
+4. 📊 Relatórios → Gráficos / Extrato  
+5. 💡 Dicas → Ações simples
+
+---
+
+# 📊 Resumo dos Wireframes
+
+| Tela             | Elementos principais                                  | Objetivo                                    |
+|------------------|-------------------------------------------------------|---------------------------------------------|
+| 🏠 Inicial       | Título, conversa, botão 🎤, atalhos                   | Entrada rápida e acesso às funções           |
+| 📝 Registro      | Mensagem, valor, categoria, botões                    | Registrar despesas com categorização fácil   |
+| 🎯 Metas         | Pergunta, botões de sugestão, barra de progresso      | Definir e acompanhar metas financeiras       |
+| 📊 Relatórios    | Abas, gráficos, histórico                             | Visualizar desempenho e histórico            |
+| 💡 Dicas         | Mensagem curta, ícone, botões                         | Recomendações práticas de economia           |
+| 🔄 Fluxo         | Sequência lógica de telas                             | Mostrar caminho de uso do aplicativo         |
+
+---
 ## 💰 Resumo do App de Finanças Pessoais
 
 Um aplicativo simples e acessível para **organizar gastos e metas financeiras via chat e voz**, com foco em **Design Universal, acessibilidade e educação financeira**.  
