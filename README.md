@@ -9,20 +9,6 @@ Este projeto foi desenvolvido como parte de um Desafio da DIO de Vibe Coding, ut
 
 ## 📄 PRD Refinado no Copilot Web
 
-### Tópicos 
-
-:small_blue_diamond: [Contexto](#1. Contexto)
-
-:small_blue_diamond: [Problema](#funcionalidades)
-
-:small_blue_diamond: [Deploy da Aplicação](#deploy-da-aplicação-dash)
-
-:small_blue_diamond: [Pré-requisitos](#pré-requisitos)
-
-:small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
-
-... 
-
 ### 1. Contexto
 Aplicativo de organização de finanças pessoais baseado em conversas em linguagem natural, com foco em Design Universal e acessibilidade.  
 Objetivo: simplificar o controle financeiro, tornando-o natural, autoexplicativo e inclusivo.
