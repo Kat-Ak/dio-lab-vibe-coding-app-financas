@@ -1,11 +1,27 @@
-# 💰 App de Finanças Pessoais por chat | Vibe Coding com IA 🤖
-
-Este projeto foi desenvolvido como parte de um Desafio da DIO de Vibe Coding, utilizando somente o Copilot Web, exercitando a habilidade de transformar intenções em instruções claras e testando os limites da IA como parceira criativa.     
- A proposta é criar um aplicativo de organização financeira pessoal baseado em interações em linguagem natural, sem escrever uma única linha de código.
+<h1 align="center"> 💰 App de Finanças Pessoais por chat | Vibe Coding com IA 🤖 </h1>
+</div>
+<p align="center"> <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge"/>
+<p align="center">
+Este projeto foi desenvolvido como parte de um Desafio da DIO de Vibe Coding, utilizando somente o Copilot Web, exercitando a habilidade de transformar intenções em instruções claras e testando os limites da IA como parceira criativa.
+<p align="center">A proposta é criar um aplicativo de organização financeira pessoal baseado em interações em linguagem natural, sem escrever uma única linha de código.
 
 ---
 
 ## 📄 PRD Refinado no Copilot Web
+
+### Tópicos 
+
+:small_blue_diamond: [Contexto](#1. Contexto)
+
+:small_blue_diamond: [Problema](#funcionalidades)
+
+:small_blue_diamond: [Deploy da Aplicação](#deploy-da-aplicação-dash)
+
+:small_blue_diamond: [Pré-requisitos](#pré-requisitos)
+
+:small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
+
+... 
 
 ### 1. Contexto
 Aplicativo de organização de finanças pessoais baseado em conversas em linguagem natural, com foco em Design Universal e acessibilidade.  
