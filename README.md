@@ -10,11 +10,6 @@
 
 ---
 
-<div align="center">
-  📄<img src="img.shields.io" alt="PRD Refinado no Copilot Web""")/>>
-</div>
-
-
 ### 📄 PRD Refinado no Copilot Web
 ##
 #### 1. Contexto
