@@ -233,19 +233,3 @@ Transforma o controle de finanças em uma **experiência de conversa natural e i
 <p></p> Este MVP cumpre o objetivo de ser um **ponto de partida sólido** para evoluções futuras, como integração com bancos digitais, gamificação leve e relatórios mais  avançados.
  
 <p></p> Mais do que um app, ele representa uma **nova forma de conversar sobre dinheiro**: simples, prática e inclusiva.
-
----
-
-# Índice 
-* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
-* [Badges](#badges)
-* [Índice](#índice)
-* [Descrição do Projeto](#descrição-do-projeto)
-* [Status do Projeto](#status-do-Projeto)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
-* [Acesso ao Projeto](#acesso-ao-projeto)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoas Contribuidoras](#pessoas-contribuidoras)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-* [Licença](#licença)
-* [Conclusão](#conclusão)
